@@ -1,0 +1,8 @@
+/* Navbar
+-------------------------------------------*/
+.navbar-nav {
+	@include media-breakpoint-up(md) {
+		width: 100%;
+		justify-content: center;
+	}
+}

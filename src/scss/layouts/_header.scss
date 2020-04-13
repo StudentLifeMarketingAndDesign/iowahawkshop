@@ -1,0 +1,45 @@
+.topbar {
+	background-color: $black;
+	color: $gray-300;
+	font-size: 80%;
+	&__links {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		& a {
+			color: $gray-300;
+			display: block;
+		}
+	}
+	&__cart {
+		background-color: $gold;
+		display: flex;
+		align-items: center;
+		margin-left: 5px;
+		&:hover, &:focus {
+			background-color: darken($gold, 3%);
+		}
+	}
+	& .fa-shopping-cart {
+		color: $black;
+	}
+}
+
+
+
+/* Uiowa watermark
+-------------------------------------------*/
+#wordmark-link svg {
+	width: auto;
+	height: 20px;
+	fill: #FFCD00;
+}
+#wordmark-link {
+	display: block;
+    text-align: center;
+}
+
+/* menu */
+.navbar-toggler__menu {
+	font-size: 1rem;
+}
