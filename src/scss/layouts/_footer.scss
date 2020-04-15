@@ -2,6 +2,7 @@
 	background-color: $black;
 	&_links a {
 		color: $gray-500;
+		font-size: $font-size-sm;
 		&:hover, &:focus {
 			color: $gray-400;
 		}
@@ -14,7 +15,7 @@
 		width: 40px;
 		background: $gray-900;
 		display: block;
-		border: 1px solid $gray-600;
+		border: 1px solid $gray-700;
 		border-radius: 50%;
 		display: flex;
 		justify-content: center;

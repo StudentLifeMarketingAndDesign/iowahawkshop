@@ -34,14 +34,47 @@
 					<a class="dropdown-item" href="#">Something else here</a>
 				</div>
 			</li>
-			<li class="nav-item dropdown">
+			<li class="nav-item dropdown position-static">
 				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Men/Unisex
 				</a>
-				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					<a class="dropdown-item" href="#">Action</a>
-					<a class="dropdown-item" href="#">Another action</a>
-					<a class="dropdown-item" href="#">Something else here</a>
+				<div class="dropdown-menu w-100 border-0 py-3 m-0 rounded-0" aria-labelledby="navbarDropdownMenuLink">
+					<div class="container-xxl">
+						<div class="row w-100">
+							<div class="col-md-3">
+								<span class="py-1 px-4 d-block" href="#"><strong>Cat Heading</strong></span>
+								<a class="dropdown-item" href="#">Action</a>
+								<a class="dropdown-item" href="#">Another action</a>
+								<a class="dropdown-item" href="#">Something else here</a>
+								<a class="dropdown-item" href="#">Action</a>
+								<a class="dropdown-item" href="#">Action</a>
+							</div>
+							<div class="col-md-3">
+								<span class="py-1 px-4 d-block" href="#"><strong>Cat Heading</strong></span>
+								<a class="dropdown-item" href="#">Action</a>
+								<a class="dropdown-item" href="#">Another action</a>
+								<a class="dropdown-item" href="#">Something else here</a>
+								<a class="dropdown-item" href="#">Action</a>
+								<a class="dropdown-item" href="#">Action</a>
+							</div>
+							<div class="col-md-3">
+								<span class="py-1 px-4 d-block" href="#"><strong>Cat Heading</strong></span>
+								<a class="dropdown-item" href="#">Action</a>
+								<a class="dropdown-item" href="#">Another action</a>
+								<a class="dropdown-item" href="#">Something else here</a>
+								<a class="dropdown-item" href="#">Action</a>
+								<a class="dropdown-item" href="#">Action</a>
+							</div>
+							<div class="col-md-3">
+								<span class="py-1 px-4 d-block" href="#"><strong>Cat Heading</strong></span>
+								<a class="dropdown-item" href="#">Action</a>
+								<a class="dropdown-item" href="#">Another action</a>
+								<a class="dropdown-item" href="#">Something else here</a>
+								<a class="dropdown-item" href="#">Action</a>
+								<a class="dropdown-item" href="#">Action</a>
+							</div>
+						</div>
+					</div>
 				</div>
 			</li>
 			<li class="nav-item dropdown">

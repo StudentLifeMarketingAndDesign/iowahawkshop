@@ -1,15 +1,26 @@
 
 /* Colors
 -------------------------------------------*/
-$black: #000;
 $gold: #FFCD00;
-$white: #fff;
+$warning: $gold;
+
+$white:    #fff;
+$gray-100: #fafafa;
+$gray-200: #efefef;
+$gray-300: #e6e6e6;
+$gray-400: #dadada;
+$gray-500: #bdbdbd;
+$gray-600: #7d7d7d;
+$gray-700: #575757;
+$gray-800: #404040;
+$gray-900: #292929;
+$black:    #000;
 
 /* Typography
 -------------------------------------------*/
 $enable-responsive-font-sizes: true;
 $font-family-base: 'Roboto', sans-serif;
-$headings-font-family: 'Roboto', sans-serif;
+$headings-font-family: 'Roboto Condensed', sans-serif;
 $headings-font-weight: 700;
 
 
@@ -40,6 +51,8 @@ $navbar-light-hover-color: $black;
 $navbar-light-toggler-border-color: rgba($black, .7);
 
 
+/* Grid
+--------------------------------------------*/
 $grid-breakpoints: (
   xs: 0,
   sm: 576px,
@@ -48,8 +61,6 @@ $grid-breakpoints: (
   xl: 1200px,
   xxl: 1400px
 );
-
-
 // Grid containers
 //
 // Define the maximum width of `.container` for different screen sizes.
@@ -62,6 +73,9 @@ $container-max-widths: (
   xxl: 1400px
 );
 
+/* Card
+---------------------------------------------*/
+$border-radius: .20rem;
 
 
 
