@@ -100,17 +100,17 @@
 				<div class="row mb-3">
 					<div class="col-6 col-md-3 mb-3 mb-md-0">
 						<div class="card border-0">
-							<img src="images/BB0015-t.jpg" class="card-img-top" alt="">
+							<img src="https://via.placeholder.com/400x300" class="card-img-top" alt="">
 							<div class="card-body">
 								<p class="card-text">
-									<a href="#" class="stretched-link text-dark">Card title</a>
+									<a href="#" class="stretched-link text-dark">MacBook</a>
 								</p>
 							</div>
 						</div>
 					</div>
 					<div class="col-6 col-md-3">
 						<div class="card border-0">
-							<img src="images/BB0015-t.jpg" class="card-img-top" alt="">
+							<img src="https://via.placeholder.com/400x300" class="card-img-top" alt="">
 							<div class="card-body">
 								<p class="card-text">
 									<a href="#" class="stretched-link text-dark">Card title</a>
@@ -120,7 +120,7 @@
 					</div>
 					<div class="col-6 col-md-3 mb-3 mb-md-0">
 						<div class="card border-0">
-							<img src="images/BB0015-t.jpg" class="card-img-top" alt="">
+							<img src="https://via.placeholder.com/400x300" class="card-img-top" alt="">
 							<div class="card-body">
 								<p class="card-text">
 									<a href="#" class="stretched-link text-dark">Card title</a>
@@ -130,7 +130,7 @@
 					</div>
 					<div class="col-6 col-md-3">
 						<div class="card border-0">
-							<img src="images/BB0015-t.jpg" class="card-img-top" alt="">
+							<img src="https://via.placeholder.com/400x300" class="card-img-top" alt="">
 							<div class="card-body">
 								<p class="card-text">
 									<a href="#" class="stretched-link text-dark">Card title</a>
