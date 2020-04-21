@@ -1,6 +1,6 @@
 <footer class="footer">
 	<div class="container-xxl">
-		<div class="row py-4 py-md-6">
+		<div class="row py-4 py-md-5">
 			<div class="col-md-6 col-lg-8">
 				<div class="row">
 					<div class="col-6 col-lg-3">
