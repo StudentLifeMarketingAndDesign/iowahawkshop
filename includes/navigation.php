@@ -18,16 +18,21 @@
 	</button>
 	<div class="collapse navbar-collapse" id="navbarNavDropdown">
 		<ul class="navbar-nav">
-			<li class="nav-item">
-				<a class="nav-link" href="#">Textbooks</a>
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					Textbooks
+				</a>
+				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+					<a class="dropdown-item" href="catalog.php">Catalog Page</a>
+					<a class="dropdown-item" href="browse.php">Browse Page</a>
+					<a class="dropdown-item" href="product.php">Product Page</a>
+				</div>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="#">Technology</a>
 			</li>
 			<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					Students & Faculty
-				</a>
+				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Students & Faculty</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					<a class="dropdown-item" href="#">Action</a>
 					<a class="dropdown-item" href="#">Another action</a>

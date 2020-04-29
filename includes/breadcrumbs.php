@@ -1,13 +1,17 @@
-
-<div class="breadcrumbs-wrapper">
-<p class="breadcrumbs">
-<!-- <span>You are here: </span> -->
-<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://www.hawkshop.com/ePOS/form=index.html"><span itemprop="title">Home</span></a></span>
-<span>&nbsp;/&nbsp;</span>
-<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://www.hawkshop.com/ePOS/form=shared3/gm/browse.html&amp;cat=64"><span itemprop="title">Women</span></a></span>
-<span>&nbsp;/&nbsp;</span>
-<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://www.hawkshop.com/ePOS/form=shared3/gm/browse.html&amp;cat=379"><span itemprop="title">Shirts and Tanks</span></a></span>
-<!-- <span>&nbsp;&gt;&nbsp;</span>
-<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://www.hawkshop.com/ePOS/form=item.html&amp;item=PR0216"><span itemprop="title">Under Armour Cotton Performance V-Neck T-Shirt</span></a></span> -->
-</p>
+<div id="merch-BreadcrumbsFrame-65" class="breadcrumbsFrame">
+	<span id="merch-BreadcrumbEntry-home-65" class="breadcrumbEntry">
+		<a class="breadcrumbLink" href="#">Home</a>
+		<span class="breadcrumbDivider">&gt;</span>
+	</span>
+	<span id="merch-BreadcrumbEntry-26-65" class="breadcrumbEntry">
+		<a class="breadcrumbLink" href="#">Men/Unisex Apparel</a>
+		<span class="breadcrumbDivider">&gt;</span>
+	</span>
+	<span id="merch-BreadcrumbEntry-402-65" class="breadcrumbEntry">
+		<a class="breadcrumbLink" href="#">Accessories</a>
+		<span class="breadcrumbDivider">&gt;</span>
+	</span>
+	<span id="merch-BreadcrumbEntry-65-65" class="breadcrumbEntry">
+		<a class="breadcrumbLink" href="#">Hats</a>
+	</span>
 </div>

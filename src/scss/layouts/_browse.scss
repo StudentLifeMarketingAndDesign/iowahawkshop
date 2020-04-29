@@ -1,0 +1,72 @@
+#merchPageFrame {
+	// extends bootstrap container classname
+	@extend .container-xxl;
+}
+
+
+
+/* Catalog List 
+=============================================== */
+.catIconFrame {
+	display: grid !important;
+	grid-gap: 40px;
+	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr) ) ;
+}
+.catIconLink {
+	display: block;
+}
+.catIconCell {
+	border-radius: $border-radius;
+	height: auto !important;
+	margin: 0;
+	padding: 10px;
+	width: auto;
+}
+.catIconDisplay {
+	top: 0;
+	-webkit-transform: inherit;
+	-ms-transform: inherit;
+	transform: inherit;
+}
+.catIcon {
+
+}
+.catIcon .catIconImage {
+	max-height: none;
+	max-width: 100%;
+}
+.catIconLabel {
+	background: $gray-900;
+	border: 1px solid $black;
+	border-radius: $border-radius;
+	color: $white;
+	margin-top: 5px;
+	padding: 10px;
+	
+}
+
+
+
+/* Product List
+=============================================== */
+.catalogListFrame {
+	display: grid;
+	grid-gap: 40px;
+	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr) );
+}
+.catalogItemFrame {
+	margin: 0;
+	width: auto;
+}
+
+/* images */
+.catalogImageFrame {
+	height: auto;
+	margin-bottom: 15px;
+}
+.catalogItemImage {
+	max-height: 334px;
+	max-width: 100%;
+}
+
+

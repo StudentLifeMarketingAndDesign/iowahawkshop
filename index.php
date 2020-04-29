@@ -13,11 +13,23 @@
 		<!-- Google Fonts -->
 		<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet"> 
 		
-		<!-- CSS File -->
-		<link rel="stylesheet" href="dist/main.css?cb=1587479686772">
+		<!-- Sequoia CSS Files -->
+		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/masterstyles.css">
+		<?php include 'includes/style.php'; ?>
+		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/scripts/jquery-ui-1.12.1/jquery-ui.min.css">
+		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/scripts/jquery-ui-1.12.1/jquery-ui.structure.min.css">
+		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/responsive/responsiveTemplate.css">
+		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/buttons.css">
+		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/iCheck/skins/sequoia/sequoia.css">
+		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/responsive/merchandise/itemList.css">
+		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/responsive/merchandise/itemDisplay.css">
+		
+		<!-- My CSS File -->
+		<link rel="stylesheet" href="dist/main.css?cb=1588108483812">
+		
 	</head>
 	<body>
-		<?php include 'includes/header-two.php'; ?>
+		<?php include 'includes/header.php'; ?>
 
 		<section class="mb-4">
 			<a href="#" class="d-block">
@@ -151,71 +163,12 @@
 			</div>
 		</section>
 		
-		<section class="callouts bg-warning py-4 mt-5">
-			<div class="container-xxl">
-				<div class="row">
-					<div class="col-sm-6 mb-2 mb-md-0 col-md-3">
-						<div class="card bg-warning h-100">
-							<div class="card-body">
-								<div class="media">
-									<i class="fas fa-shipping-fast mr-3" style="font-size:24px;"></i>
-									<div class="media-body">
-										<h6 class="my-0">
-											<a href="#" class="text-dark">Free Campus Delivery</a>
-										</h6>
-										<small>Cras sit amet nibh libero gravida</small>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-6 mb-2 mb-md-0 col-md-3">
-						<div class="card bg-warning h-100">
-							<div class="card-body">
-								<div class="media">
-									<i class="fas fa-dollar-sign mr-3" style="font-size:24px;"></i>
-									<div class="media-body">
-										<h6 class="my-0">Tax Free</h6>
-										<small>Cras sit amet nibh libero gravida</small>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-6 mb-2 mb-md-0 col-md-3">
-						<div class="card bg-warning h-100">
-							<div class="card-body">
-								<div class="media">
-									<i class="fas fa-university mr-3" style="font-size:24px;"></i>
-									<div class="media-body">
-										<h6 class="my-0">Lorem Ipsum</h6>
-										<small>Cras sit amet nibh libero gravida</small>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-6 col-md-3">
-						<div class="card bg-warning h-100">
-							<div class="card-body">
-								<div class="media">
-									<i class="fas fa-users mr-3" style="font-size:24px;"></i>
-									<div class="media-body">
-										<h6 class="my-0">Lorem Ipsum</h6>
-										<small>Cras sit amet nibh libero gravida</small>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div><!-- end .row -->
-			</div><!-- end .container -->
-		</section>
+		<?php include 'includes/callouts.php'; ?>
 
-		<?php include 'includes/footer-two.php'; ?>
+		<?php include 'includes/footer.php'; ?>
 
 		<!-- JavaScript File -->
-		<script src="dist/all.js?cb=1587479686772"></script>
+		<script src="dist/all.js?cb=1588108483812"></script>
 		<!-- Jquery -->
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 		<!-- Bootstrap -->

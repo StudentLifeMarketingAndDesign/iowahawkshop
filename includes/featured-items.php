@@ -1,96 +1,41 @@
-<div class="suggested-wrapper">
-	<h3 class="suggested-title">Featured Items</h3>
-	<div class="main-gallery">
-		<div class="gallery-cell">
-			<a class="suggested-img" href="#" title="Iowa Speckled Gold Mug">
-				<img src="images/F0687-m.jpg" width="180" alt="Iowa Speckled Gold Mug" />
-			</a>
-			<a class="suggested-link" href="#" title="Iowa Speckled Gold Mug">
-				Iowa Speckled Gold Mug 1</a>
-				<span class="suggested-price">$11.00</span>
-			</a>
+<div id="featured-ListFrame-26" class="featuredFrame catalogFeaturedFrame catFeaturedFrame-26" style="display: block;">
+	<div id="featured-Subheader-26" class="listSubheading featuredSubheading featuredSubheading-26">
+		<h2 id="featured-Subtitle-26" class="listSubtitle featuredSubtitle featuredSubtitle-26">Featured Items</h2>
+	</div>
+	<div id="featured26-Item-N1925" class="catalogItemFrame featuredItemFrame">
+		<div id="featured26-ItemDetailsFrame-N1925" class="catalogItemDetailsFrame">
+			<div id="featured26-ItemDetails-N1925" class="catalogItemDetails">
+				<div id="featured26-ItemTitle-N1925" class="catalogItemTitle">
+					<a id="featured26-ItemTitleLink-N1925" href="#" class="catalogItemLinkFrame">
+						<div id="featured26-ImageFrame-N1925" class="catalogImageFrame">
+							<img id="featured26-Img-N1925" class="catalogItemImage" alt="" src="https://via.placeholder.com/500x556" istextbook="0" border="0">
+						</div>
+						<span class="catalogItemLink catalogItemTitleLink">Iowa Hawkeyes Track Jacket</span>
+					</a>
+				</div>
+				<div id="featured26-ItemInfo-N1925" class="catalogItemInfo"></div>
+				<div id="featured26-ItemPriceFrame-N1925" class="itemPricing featured26ItemPricing priceDisplay">
+					<div class="itemPriceMain featured26ItemPrice">$70.00</div>
+				</div>
+			</div>
 		</div>
-		<div class="gallery-cell">
-			<a class="suggested-img" href="#" title="Iowa Speckled Gold Mug">
-				<img src="images/F0687-m.jpg" width="180" alt="Iowa Speckled Gold Mug" />
-			</a>
-			<a class="suggested-link" href="#" title="Iowa Speckled Gold Mug">
-				Iowa Speckled Gold Mug 2</a>
-				<span class="suggested-price">$11.00</span>
-			</a>
-		</div>
-		<div class="gallery-cell">
-			<a class="suggested-img" href="#" title="Iowa Speckled Gold Mug">
-				<img src="images/F0687-m.jpg" width="180" alt="Iowa Speckled Gold Mug" />
-			</a>
-			<a class="suggested-link" href="#" title="Iowa Speckled Gold Mug">
-				Iowa Speckled Gold Mug 3</a>
-				<span class="suggested-price">$11.00</span>
-			</a>
-		</div>
-		<div class="gallery-cell">
-			<a class="suggested-img" href="#" title="Iowa Speckled Gold Mug">
-				<img src="images/F0687-m.jpg" width="180" alt="Iowa Speckled Gold Mug" />
-			</a>
-			<a class="suggested-link" href="#" title="Iowa Speckled Gold Mug">
-				Iowa Speckled Gold Mug 4</a>
-				<span class="suggested-price">$11.00</span>
-			</a>
-		</div>
-		<div class="gallery-cell">
-			<a class="suggested-img" href="#" title="Iowa Speckled Gold Mug">
-				<img src="images/F0687-m.jpg" width="180" alt="Iowa Speckled Gold Mug" />
-			</a>
-			<a class="suggested-link" href="#" title="Iowa Speckled Gold Mug">
-				Iowa Speckled Gold Mug 5</a>
-				<span class="suggested-price">$11.00</span>
-			</a>
+	</div>
+	<div id="featured26-Item-N1925" class="catalogItemFrame featuredItemFrame">
+		<div id="featured26-ItemDetailsFrame-N1925" class="catalogItemDetailsFrame">
+			<div id="featured26-ItemDetails-N1925" class="catalogItemDetails">
+				<div id="featured26-ItemTitle-N1925" class="catalogItemTitle">
+					<a id="featured26-ItemTitleLink-N1925" href="#" class="catalogItemLinkFrame">
+						<div id="featured26-ImageFrame-N1925" class="catalogImageFrame">
+							<img id="featured26-Img-N1925" class="catalogItemImage" alt="" src="https://via.placeholder.com/500x556" istextbook="0" border="0">
+						</div>
+						<span class="catalogItemLink catalogItemTitleLink">Iowa Hawkeyes Track Jacket</span>
+					</a>
+				</div>
+				<div id="featured26-ItemInfo-N1925" class="catalogItemInfo"></div>
+				<div id="featured26-ItemPriceFrame-N1925" class="itemPricing featured26ItemPricing priceDisplay">
+					<div class="itemPriceMain featured26ItemPrice">$70.00</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
-
-
-<!-- <div class="featured-wrapper">
-<h3 class="featured-title">We Also Suggest. . .</h3>
-<div class="featured-pagination">
-<a href="#" class="ir featured-prev">Previous</a>
-<a href="#" class="ir featured-next">Next</a>
-</div>
-<ul id="featured-carousel" class="clearfix">
-	<li class="item">
-		<a class="catalog-block" href="#" title="Iowa Hawkeye Maritime Shot Glass">
-		<span class="catalog-img"><img src="images/F0671-m.jpg" width="180" alt="Iowa Hawkeye Maritime Shot Glass" /></span>
-		<h4 class="catalog-title">Iowa Hawkeye Maritime Shot Glass</h4>
-		<strong class="catalog-price">$9.00</strong>
-		</a>
-	</li>
-	<li class="item">
-		<a class="catalog-block" href="#" title="Iowa Hawkeye Diner Mug">
-		<span class="catalog-img"><img src="images/F0678-m.jpg" width="180" alt="Iowa Hawkeye Diner Mug" /></span>
-		<h4 class="catalog-title">Iowa Hawkeye Diner Mug</h4>
-		<strong class="catalog-price">$11.00</strong>
-		</a>
-	</li>
-	<li class="item">
-		<a class="catalog-block" href="#" title="Iowa Speckled Gold Mug">
-		<span class="catalog-img"><img src="images/F0687-m.jpg" width="180" alt="Iowa Speckled Gold Mug" /></span>
-		<h4 class="catalog-title">Iowa Speckled Gold Mug</h4>
-		<strong class="catalog-price">$11.00</strong>
-		</a>
-	</li>
-	<li class="item">
-		<a class="catalog-block" href="#" title="Iowa Football Field Mug">
-		<span class="catalog-img"><img src="images/F0692-m.jpg" width="180" alt="Iowa Football Field Mug" /></span>
-		<h4 class="catalog-title">Iowa Football Field Mug</h4>
-		<strong class="catalog-price">$14.00</strong>
-		</a>
-	</li>
-	<li class="item">
-		<a class="catalog-block" href="#" title="2013-14 Iowa Bowl Stein">
-		<span class="catalog-img"><img src="images/T0427-m.jpg" width="180" alt="2013-14 Iowa Bowl Stein" /></span>
-		<h4 class="catalog-title">2013-14 Iowa Bowl Stein</h4>
-		<strong class="catalog-price">$25.00</strong>
-		</a>
-	</li>
-</ul>
-</div> -->

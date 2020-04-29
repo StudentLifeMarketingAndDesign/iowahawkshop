@@ -1,1 +1,0 @@
-<img src="images/footer-tags.jpg" alt="" style="display: block;">
