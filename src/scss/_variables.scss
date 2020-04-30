@@ -20,9 +20,15 @@ $black:    #000;
 -------------------------------------------*/
 $enable-responsive-font-sizes: true;
 $font-family-base: 'Roboto', sans-serif;
+$font-size-base: 1rem;
 $headings-font-family: 'Roboto Condensed', sans-serif;
 $headings-font-weight: 700;
 
+/* Border
+-------------------------------------------*/
+$border-radius:     .2rem;
+$border-radius-lg:  .3rem;
+$border-radius-sm:  .1rem;
 
 /* Spacing
 -------------------------------------------*/
@@ -37,7 +43,6 @@ $spacers: (
 /* Navs
 -------------------------------------------*/
 $nav-link-padding-y: .3rem;
-
 
 /* Navbar
 -------------------------------------------*/
@@ -61,10 +66,10 @@ $grid-breakpoints: (
   xl: 1200px,
   xxl: 1400px
 );
+
 // Grid containers
 //
 // Define the maximum width of `.container` for different screen sizes.
-
 $container-max-widths: (
   sm: 540px,
   md: 720px,

@@ -1,0 +1,12 @@
+.breadcrumbsFrame {
+
+    & .breadcrumbEntry {
+        font-size: $font-size-sm;
+    }
+    & .breadcrumbLink {
+        color: $text-muted;
+    }
+    & .breadcrumbDivider {
+        color: $text-muted;
+    }
+}

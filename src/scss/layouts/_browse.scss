@@ -3,17 +3,70 @@
 	@extend .container-xxl;
 }
 
+/* Page Header & Content 
+-------------------------------------------*/
+/* Content Header */
+div[id^="merch-Header-"] { 
+	display: flex;
+	flex-direction: column-reverse;
+	padding-top: 1em;
+}
+h1.catalogPageTitle {
+	font-size: $h1-font-size;
+	line-height: $headings-line-height;
+	margin-bottom: $headings-margin-bottom;
+}
 
+/* Featured Items 
+-------------------------------------------*/
+.catalogFeaturedFrame {
+	display: grid !important;
+	grid-gap: 54px;
+	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+.featuredSubheading {
+	grid-column: 1/-1;
+	margin-bottom: -30px;
+}
+.listSubheading h2 {
+	color: $body-color;
+	display: block;
+	font-family: $font-family-base;
+	font-size: $font-size-base;
+	font-weight: bold;
+}
+
+/* Bestsellers & Sale Items
+-------------------------------------------*/
+.catalogSaleBest {
+	display: none !important;
+}
 
 /* Catalog List 
-=============================================== */
+-------------------------------------------*/
 .catIconFrame {
 	display: grid !important;
-	grid-gap: 40px;
-	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr) ) ;
+	grid-gap: 54px;
+	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+.catIconFrame:before {
+	content: "Browse By Category";
+	color: $body-color;
+	grid-column: 1/-1;
+	font-family: $font-family-base;
+	font-size: $font-size-base;
+	font-weight: bold;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: -30px;
 }
 .catIconLink {
 	display: block;
+	text-align: center;
+	&:hover, &:focus {
+		& .catIconLabel {
+			background: darken($gold, 4%);
+		}
+	}
 }
 .catIconCell {
 	border-radius: $border-radius;
@@ -32,26 +85,25 @@
 
 }
 .catIcon .catIconImage {
-	max-height: none;
+	max-height: 334px;
 	max-width: 100%;
 }
 .catIconLabel {
-	background: $gray-900;
-	border: 1px solid $black;
+	background: $gold;
+	border: 1px solid rgba(0,0,0,.125);
 	border-radius: $border-radius;
-	color: $white;
+	color: $black;
 	margin-top: 5px;
 	padding: 10px;
-	
+	transition: background .1s linear;
 }
 
 
-
 /* Product List
-=============================================== */
+-------------------------------------------*/
 .catalogListFrame {
 	display: grid;
-	grid-gap: 40px;
+	grid-gap: 54px;
 	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr) );
 }
 .catalogItemFrame {
@@ -62,11 +114,17 @@
 /* images */
 .catalogImageFrame {
 	height: auto;
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 }
 .catalogItemImage {
 	max-height: 334px;
 	max-width: 100%;
+}
+.catalogItemTitleLink {
+	line-height: $line-height-base;
+}
+.catalogListFrame .itemPriceMain, .featuredFrame .itemPriceMain {
+	line-height: $line-height-base;
 }
 
 

@@ -25,7 +25,7 @@
 		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/responsive/merchandise/itemDisplay.css">
 		
 		<!-- My CSS File -->
-		<link rel="stylesheet" href="dist/main.css?cb=1588108483812">
+		<link rel="stylesheet" href="dist/main.css?cb=1588178375320">
 		
 	</head>
 	<body>
@@ -168,7 +168,7 @@
 		<?php include 'includes/footer.php'; ?>
 
 		<!-- JavaScript File -->
-		<script src="dist/all.js?cb=1588108483812"></script>
+		<script src="dist/all.js?cb=1588178375320"></script>
 		<!-- Jquery -->
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 		<!-- Bootstrap -->

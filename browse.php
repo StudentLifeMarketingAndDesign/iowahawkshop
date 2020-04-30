@@ -34,7 +34,7 @@
 
 		<div id="merchPageFrame" class="catalogScale" style="min-height: 0px;">
 			<div id="merch-Header-65">
-				<h1 id="merch-Title-65" class="catalogPageTitle">Hats</h1>
+				<h1 id="merch-Title-65" class="catalogPageTitle">Catalog Name Goes Here</h1>
 
 				<!-- breadcrumbs -->
 				<?php include 'includes/breadcrumbs.php'; ?>
@@ -50,7 +50,7 @@
 			<div id="merch-HighlightFrame-65" class="catalogContent catContent-65">
 				<div id="merch-ContentFrame-65" class="catalogContentFrame catContentFrame-65" style="display: block;">
 					<div id="CatContent-65">
-						<p>Browse our entire selection of Iowa hats and find the perfect option for game time. Choose from one of our officially licensed Hawkeye headwear featuring the top fits, colors and styles. We also have a selection of <a href="http://www.hawkshop.com/ePOS?form=shared3/gm/merch.html&amp;cat=381&amp;store=103&amp;design=103">women's hats</a> as well.</p>
+						<p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.</p>
 					</div>
 				</div>
 				<?php include 'includes/featured-items.php'; ?>
