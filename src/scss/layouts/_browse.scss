@@ -2,6 +2,14 @@
 	// extends bootstrap container classname
 	@extend .container-xxl;
 }
+/* rearranging catalog sections */
+.catalogContent {
+	display: flex;
+	flex-direction: column;
+}
+.catalogFeaturedFrame {
+	order: 3;
+}
 
 /* Page Header & Content 
 -------------------------------------------*/

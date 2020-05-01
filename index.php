@@ -25,7 +25,7 @@
 		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/responsive/merchandise/itemDisplay.css">
 		
 		<!-- My CSS File -->
-		<link rel="stylesheet" href="dist/main.css?cb=1588178375320">
+		<link rel="stylesheet" href="dist/main.css?cb=1588342060669">
 		
 	</head>
 	<body>
@@ -41,7 +41,7 @@
 			<div class="container-xxl">
 				<div class="row mb-4">
 					<div class="col-md-6">
-						<div class="card">
+						<div class="card border-0">
 							<img src="https://via.placeholder.com/800x400" class="card-img-top" alt="">
 							<div class="card-body">
 								<h5 class="card-title">Card Title</h5>
@@ -50,7 +50,7 @@
 						</div>
 					</div>
 					<div class="col-md-6">
-						<div class="card">
+						<div class="card border-0">
 							<img src="https://via.placeholder.com/800x400" class="card-img-top" alt="">
 							<div class="card-body">
 								<h5 class="card-title">Card Title</h5>
@@ -188,7 +188,7 @@
 		<?php include 'includes/footer.php'; ?>
 
 		<!-- JavaScript File -->
-		<script src="dist/all.js?cb=1588178375320"></script>
+		<script src="dist/all.js?cb=1588342060669"></script>
 		<!-- Jquery -->
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 		<!-- Bootstrap -->
