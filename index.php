@@ -40,6 +40,26 @@
 		<section class="">
 			<div class="container-xxl">
 				<div class="row mb-4">
+					<div class="col-md-6">
+						<div class="card">
+							<img src="https://via.placeholder.com/800x400" class="card-img-top" alt="">
+							<div class="card-body">
+								<h5 class="card-title">Card Title</h5>
+								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="card">
+							<img src="https://via.placeholder.com/800x400" class="card-img-top" alt="">
+							<div class="card-body">
+								<h5 class="card-title">Card Title</h5>
+								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row mb-4">
 					<div class="col">
 						<div class="card bg-light text-center py-3">
 							<div class="card-body">
@@ -50,6 +70,7 @@
 						</div>
 					</div>
 				</div>
+				
 				<div class="row mb-4">
 					<div class="col-sm-4 mb-3 mb-md-0">
 						<div class="card bg-secondary text-white text-center">
@@ -80,26 +101,25 @@
 					</div>
 				</div>
 				<div class="row mb-4">
-					<div class="col-md-6 mb-3">
-						<div class="card border-0">
-							<img src="https://via.placeholder.com/800x400" class="card-img-top" alt="">
-							<div class="card-body">
-								<h5 class="card-title">Card Title</h5>
-								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					<div class="col">
+						<div class="card mb-3">
+							<div class="row no-gutters">
+								<div class="col-md-6">
+									<img src="https://via.placeholder.com/800x400" class="card-img rounded-0" alt="...">
+								</div>
+								<div class="col-md-6 d-flex align-items-center">
+									<div class="card-body p-sm-5">
+										<h5 class="card-title h3">Card title</h5>
+										<p class="card-text lead">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+										<a href="#" class="btn btn-warning">Go somewhere</a>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6 mb-md-4">
-						<div class="card border-0">
-							<img src="https://via.placeholder.com/800x400" class="card-img-top" alt="">
-							<div class="card-body">
-								<h5 class="card-title">Card Title</h5>
-								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-							</div>
-						</div>
-					</div>
+					
 				</div>
-				<div class="row mb-4">
+				<!-- <div class="row mb-4">
 					<div class="col">
 						<div class="card bg-secondary text-light text-center py-3">
 							<div class="card-body">
@@ -117,7 +137,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<div class="row mb-4">
 					<div class="col-6 col-md-3 mb-3 mb-md-0">
 						<div class="card border-light">
