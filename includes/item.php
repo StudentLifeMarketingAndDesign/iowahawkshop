@@ -7,7 +7,7 @@
 					<div id="merch65-ImageFrame-A1960" class="catalogImageFrame">
 						<img id="merch65-Img-A1960" class="catalogItemImage" alt="" src="https://via.placeholder.com/500x556" istextbook="0" border="0">
 					</div>
-					<span class="catalogItemLink catalogItemTitleLink">Iowa Hawkeyes Nike Aerobill Cap </span>
+					<span class="catalogItemLink catalogItemTitleLink">Product Name Goes Here</span>
 				</a>
 			</div>
 			<div id="merch65-ItemInfo-A1960" class="catalogItemInfo"></div>

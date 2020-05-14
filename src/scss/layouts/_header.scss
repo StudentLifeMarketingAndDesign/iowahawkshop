@@ -24,8 +24,14 @@
 		color: $black;
 	}
 }
-
-
+.navbar .form-control {
+	padding-left: .375rem;
+	padding-right: .375rem;
+	@include media-breakpoint-up(sm) {
+		padding-left: $input-btn-padding-x;
+		padding-right: $input-btn-padding-x;
+	}
+}
 
 /* Uiowa watermark
 -------------------------------------------*/

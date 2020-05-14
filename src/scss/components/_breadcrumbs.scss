@@ -1,5 +1,10 @@
 .breadcrumbsFrame {
-
+    margin-bottom: 20px;
+    .itemDisplayFrame & {
+        // styles for product page only
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
     & .breadcrumbEntry {
         font-size: $font-size-sm;
     }

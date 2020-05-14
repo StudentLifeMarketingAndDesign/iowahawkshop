@@ -1,0 +1,76 @@
+.itemHeadingFrame {
+    padding: 0;
+}
+
+/* Product Title
+-------------------------------------------*/
+.itemHeadingFrame {
+    margin-bottom: 1.5em;
+    & .itemTitleText {
+        @extend .h1;
+    }
+    & .itemTitleNumber {
+        font-family: $font-family-base;
+        font-size: $font-size-base;
+        color: $gray-600;
+    }
+}
+
+
+/* Photo Display
+-------------------------------------------*/
+.itemPhotoDisplay {
+    width: 100% !important;
+    @include media-breakpoint-up(md) {
+        width: 48% !important;
+        max-width: 500px;
+        margin: 0;
+    }
+    // thumbnail icons
+    & .itemIconFrame {
+        width: 100% !important;
+        margin: 10px 0;
+        padding: 10px 0;
+    }
+    & .itemAttrList {
+
+    }
+    // main photo
+    & .itemPhotoFrame {
+        width: 100% !important;
+    }
+    & .itemPhotoThumb {
+        max-width: 100%;
+        & img {
+            width: 100%;
+        }
+    }
+}
+
+/* Item Info
+-------------------------------------------*/
+.itemInfoFrame {
+    margin: 0;
+    max-width: none !important;
+    width: 100% !important;
+    @include media-breakpoint-up(md) {
+        width: 48% !important;
+        margin: 0 0 0 2%;
+    }
+    & .itemOptions {
+
+    }
+    & .itemDesc {
+
+    }
+    & .itemLongDescription {
+        font-size: $font-size-base;
+        max-width: none;
+    }
+    & .itemFrom {
+        color: $gray-600;
+        font-size: $font-size-base;
+    }
+}
+
+

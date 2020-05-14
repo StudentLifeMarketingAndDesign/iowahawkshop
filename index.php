@@ -25,13 +25,13 @@
 		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/responsive/merchandise/itemDisplay.css">
 		
 		<!-- My CSS File -->
-		<link rel="stylesheet" href="dist/main.css?cb=1588342060669">
+		<link rel="stylesheet" href="dist/main.css?cb=1588776850143">
 		
 	</head>
 	<body>
 		<?php include 'includes/header.php'; ?>
 
-		<section class="mb-4">
+		<section class="mb-5">
 			<a href="#" class="d-block">
 				<img src="https://via.placeholder.com/1600x600" alt="" class="img-fluid d-block m-auto">
 			</a>
@@ -39,7 +39,7 @@
 		
 		<section class="">
 			<div class="container-xxl">
-				<div class="row mb-4">
+				<div class="row mb-5">
 					<div class="col-md-6">
 						<div class="card border-0">
 							<img src="https://via.placeholder.com/800x400" class="card-img-top" alt="">
@@ -59,7 +59,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="row mb-4">
+				<div class="row mb-5">
 					<div class="col">
 						<div class="card bg-light text-center py-3">
 							<div class="card-body">
@@ -71,7 +71,7 @@
 					</div>
 				</div>
 				
-				<div class="row mb-4">
+				<div class="row mb-5">
 					<div class="col-sm-4 mb-3 mb-md-0">
 						<div class="card bg-secondary text-white text-center">
 							<div class="card-body">
@@ -100,7 +100,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="row mb-4">
+				<div class="row mb-5">
 					<div class="col">
 						<div class="card mb-3">
 							<div class="row no-gutters">
@@ -138,10 +138,10 @@
 						</div>
 					</div>
 				</div> -->
-				<div class="row mb-4">
+				<div class="row mb-5">
 					<div class="col-6 col-md-3 mb-3 mb-md-0">
 						<div class="card border-light">
-							<img src="https://via.placeholder.com/400x300" class="card-img-top" alt="">
+							<img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
 							<div class="card-body">
 								<p class="card-text">
 									<a href="#" class="stretched-link text-dark"><strong>Apple MacBook</strong></a>
@@ -151,7 +151,7 @@
 					</div>
 					<div class="col-6 col-md-3">
 						<div class="card border-light">
-							<img src="https://via.placeholder.com/400x300" class="card-img-top" alt="">
+							<img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
 							<div class="card-body">
 								<p class="card-text">
 									<a href="#" class="stretched-link text-dark"><strong>Apple Watch</strong></a>
@@ -161,7 +161,7 @@
 					</div>
 					<div class="col-6 col-md-3 mb-3 mb-md-0">
 						<div class="card border-light">
-							<img src="https://via.placeholder.com/400x300" class="card-img-top" alt="">
+							<img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
 							<div class="card-body">
 								<p class="card-text">
 									<a href="#" class="stretched-link text-dark"><strong>Card title</strong></a>
@@ -171,7 +171,7 @@
 					</div>
 					<div class="col-6 col-md-3">
 						<div class="card border-light">
-							<img src="https://via.placeholder.com/400x300" class="card-img-top" alt="">
+							<img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
 							<div class="card-body">
 								<p class="card-text">
 									<a href="#" class="stretched-link text-dark"><strong>Card title</strong></a>
@@ -188,7 +188,7 @@
 		<?php include 'includes/footer.php'; ?>
 
 		<!-- JavaScript File -->
-		<script src="dist/all.js?cb=1588342060669"></script>
+		<script src="dist/all.js?cb=1588776850143"></script>
 		<!-- Jquery -->
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 		<!-- Bootstrap -->

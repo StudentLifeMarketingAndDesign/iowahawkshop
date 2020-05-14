@@ -23,8 +23,8 @@
 					Textbooks
 				</a>
 				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					<a class="dropdown-item" href="catalog.php">Catalog Page</a>
-					<a class="dropdown-item" href="browse.php">Browse Page</a>
+					<a class="dropdown-item" href="catalog.php">Catalog with subcatalogs</a>
+					<a class="dropdown-item" href="browse.php">Catalog with items</a>
 					<a class="dropdown-item" href="product.php">Product Page</a>
 				</div>
 			</li>
