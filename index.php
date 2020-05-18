@@ -1,37 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="en-US">
-	<head>
-		<!-- Required meta tags -->
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<title>Homepage</title>
-
-		<!-- Font Awesome -->
-		<script src="https://kit.fontawesome.com/49191f9021.js" crossorigin="anonymous"></script>
-
-		<!-- Google Fonts -->
-		<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet"> 
-		
-		<!-- Sequoia CSS Files -->
-		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/masterstyles.css">
-		<?php include 'includes/style.php'; ?>
-		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/scripts/jquery-ui-1.12.1/jquery-ui.min.css">
-		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/scripts/jquery-ui-1.12.1/jquery-ui.structure.min.css">
-		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/responsive/responsiveTemplate.css">
-		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/buttons.css">
-		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/iCheck/skins/sequoia/sequoia.css">
-		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/responsive/merchandise/itemList.css">
-		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/responsive/merchandise/itemDisplay.css">
-		
-		<!-- My CSS File -->
-		<link rel="stylesheet" href="dist/main.css?cb=1588776850143">
-		
-	</head>
+    <?php include 'includes/doc-head.php'; ?>
 	<body>
 		<?php include 'includes/header.php'; ?>
 
-		<section class="mb-5">
+		<section class="mb-6">
 			<a href="#" class="d-block">
 				<img src="https://via.placeholder.com/1600x600" alt="" class="img-fluid d-block m-auto">
 			</a>
@@ -39,7 +13,7 @@
 		
 		<section class="">
 			<div class="container-xxl">
-				<div class="row mb-5">
+				<div class="row mb-6">
 					<div class="col-md-6">
 						<div class="card border-0">
 							<img src="https://via.placeholder.com/800x400" class="card-img-top" alt="">
@@ -58,8 +32,39 @@
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="row mb-5">
+				</div><!-- end row -->
+
+                <div class="row mb-6">
+					<div class="col-sm-4 mb-3 mb-md-0">
+						<div class="card bg-secondary text-white text-center">
+							<div class="card-body">
+								<h5 class="card-title my-3">
+									<a href="#" class="stretched-link text-white">Students</a>
+								</h5>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-4 mb-3 mb-md-0">
+						<div class="card bg-secondary text-white text-center">
+							<div class="card-body">
+								<h5 class="card-title my-3">
+									<a href="#" class="stretched-link text-white">Parents</a>
+								</h5>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-4 mb-3 mb-md-0">
+						<div class="card bg-secondary text-white text-center">
+							<div class="card-body">
+								<h5 class="card-title my-3">
+									<a href="#" class="stretched-link text-white">Faculty</a>
+								</h5>
+							</div>
+						</div>
+					</div>
+				</div><!-- end row -->
+
+				<div class="row mb-6">
 					<div class="col">
 						<div class="card bg-light text-center py-3">
 							<div class="card-body">
@@ -69,40 +74,11 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div><!-- end row -->
 				
-				<div class="row mb-5">
-					<div class="col-sm-4 mb-3 mb-md-0">
-						<div class="card bg-secondary text-white text-center">
-							<div class="card-body">
-								<h5 class="card-title my-3">
-									<a href="#" class="stretched-link text-white">Card title</a>
-								</h5>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-4 mb-3 mb-md-0">
-						<div class="card bg-secondary text-white text-center">
-							<div class="card-body">
-								<h5 class="card-title my-3">
-									<a href="#" class="stretched-link text-white">Card title</a>
-								</h5>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-4 mb-3 mb-md-0">
-						<div class="card bg-secondary text-white text-center">
-							<div class="card-body">
-								<h5 class="card-title my-3">
-									<a href="#" class="stretched-link text-white">Card title</a>
-								</h5>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="row mb-5">
+				<div class="row mb-6">
 					<div class="col">
-						<div class="card mb-3">
+						<div class="card mb-3 shadow-sm">
 							<div class="row no-gutters">
 								<div class="col-md-6">
 									<img src="https://via.placeholder.com/800x400" class="card-img rounded-0" alt="...">
@@ -117,9 +93,52 @@
 							</div>
 						</div>
 					</div>
-					
-				</div>
-				<!-- <div class="row mb-4">
+				</div><!-- end row -->
+				
+				<div class="row mb-6">
+					<div class="col-6 col-md-3 mb-3 mb-md-0">
+						<div class="card border-light">
+							<img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
+							<div class="card-body">
+								<p class="card-text">
+									<a href="#" class="stretched-link text-dark"><strong>Featured Catalog</strong></a>
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-md-3">
+						<div class="card border-light">
+							<img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
+							<div class="card-body">
+								<p class="card-text">
+									<a href="#" class="stretched-link text-dark"><strong>Featured Catalog</strong></a>
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-md-3 mb-3 mb-md-0">
+						<div class="card border-light">
+							<img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
+							<div class="card-body">
+								<p class="card-text">
+									<a href="#" class="stretched-link text-dark"><strong>Featured Catalog</strong></a>
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-6 col-md-3">
+						<div class="card border-light">
+							<img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
+							<div class="card-body">
+								<p class="card-text">
+									<a href="#" class="stretched-link text-dark"><strong>Featured Catalog</strong></a>
+								</p>
+							</div>
+						</div>
+					</div>
+				</div><!-- end row -->
+
+                <!-- <div class="row mb-4">
 					<div class="col">
 						<div class="card bg-secondary text-light text-center py-3">
 							<div class="card-body">
@@ -138,49 +157,7 @@
 						</div>
 					</div>
 				</div> -->
-				<div class="row mb-5">
-					<div class="col-6 col-md-3 mb-3 mb-md-0">
-						<div class="card border-light">
-							<img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
-							<div class="card-body">
-								<p class="card-text">
-									<a href="#" class="stretched-link text-dark"><strong>Apple MacBook</strong></a>
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-md-3">
-						<div class="card border-light">
-							<img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
-							<div class="card-body">
-								<p class="card-text">
-									<a href="#" class="stretched-link text-dark"><strong>Apple Watch</strong></a>
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-md-3 mb-3 mb-md-0">
-						<div class="card border-light">
-							<img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
-							<div class="card-body">
-								<p class="card-text">
-									<a href="#" class="stretched-link text-dark"><strong>Card title</strong></a>
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-6 col-md-3">
-						<div class="card border-light">
-							<img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
-							<div class="card-body">
-								<p class="card-text">
-									<a href="#" class="stretched-link text-dark"><strong>Card title</strong></a>
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+			</div><!-- end container -->
 		</section>
 		
 		<?php include 'includes/callouts.php'; ?>

@@ -4,8 +4,8 @@
 	@include media-breakpoint-up(md) {
 		width: 100%;
 		justify-content: center;
-		& .dropdown-menu {
-			font-size: $font-size-sm;
-		}
+		// & .dropdown-menu {
+		// 	font-size: $font-size-sm;
+		// }
 	}
 }

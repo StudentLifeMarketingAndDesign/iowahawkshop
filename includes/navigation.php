@@ -6,9 +6,9 @@
 	</a> -->
 	<form class="flex-fill mr-2 d-md-none">
     	<div class="input-group">
-			<input type="text" class="form-control" placeholder="Search" aria-label="Search" aria-describedby="button-addon2">
+			<input type="text" class="form-control" placeholder="Search" aria-label="Search" aria-describedby="button-search">
 			<div class="input-group-append">
-				<button class="btn btn-outline-dark" type="button" id="button-addon2"><i class="fas fa-search"></i></button>
+				<button class="btn btn-outline-dark" type="button" id="button-search"><i class="fas fa-search"></i></button>
 			</div>
 		</div>
 	</form>
@@ -22,10 +22,11 @@
 				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Textbooks
 				</a>
-				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+				<div class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownMenuLink">
 					<a class="dropdown-item" href="catalog.php">Catalog with subcatalogs</a>
 					<a class="dropdown-item" href="browse.php">Catalog with items</a>
 					<a class="dropdown-item" href="product.php">Product Page</a>
+                    <a class="dropdown-item" href="page.php">Content Page</a>
 				</div>
 			</li>
 			<li class="nav-item">
@@ -33,7 +34,7 @@
 			</li>
 			<li class="nav-item dropdown">
 				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Students & Faculty</a>
-				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+				<div class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownMenuLink">
 					<a class="dropdown-item" href="#">Action</a>
 					<a class="dropdown-item" href="#">Another action</a>
 					<a class="dropdown-item" href="#">Something else here</a>
@@ -43,7 +44,7 @@
 				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Men/Unisex
 				</a>
-				<div class="dropdown-menu w-100 border-0 py-3 m-0 rounded-0" aria-labelledby="navbarDropdownMenuLink">
+				<div class="dropdown-menu w-100 border-top-0 border-right-0 border-left-0 py-4 m-0 rounded-0 shadow-sm" aria-labelledby="navbarDropdownMenuLink">
 					<div class="container-xxl">
 						<div class="row w-100">
 							<div class="col-md-3">
@@ -86,7 +87,7 @@
 				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Women
 				</a>
-				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+				<div class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownMenuLink">
 					<a class="dropdown-item" href="#">Action</a>
 					<a class="dropdown-item" href="#">Another action</a>
 					<a class="dropdown-item" href="#">Something else here</a>
@@ -96,7 +97,7 @@
 				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Kids
 				</a>
-				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+				<div class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownMenuLink">
 					<a class="dropdown-item" href="#">Action</a>
 					<a class="dropdown-item" href="#">Another action</a>
 					<a class="dropdown-item" href="#">Something else here</a>
@@ -106,7 +107,7 @@
 				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" data-display="static" aria-haspopup="true" aria-expanded="false">
 					Gifts
 				</a>
-				<div class="dropdown-menu dropdown-menu-md-right dropdown-menu-lg-left" aria-labelledby="navbarDropdownMenuLink">
+				<div class="dropdown-menu dropdown-menu-md-right dropdown-menu-lg-left shadow-sm" aria-labelledby="navbarDropdownMenuLink">
 					<a class="dropdown-item" href="#">Action</a>
 					<a class="dropdown-item" href="#">Another action</a>
 					<a class="dropdown-item" href="#">Something else here</a>

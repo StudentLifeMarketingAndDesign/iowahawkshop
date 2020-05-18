@@ -40,9 +40,9 @@
 						<div class="searchcontainer">
 							<form action="">
 								<div class="input-group">
-									<input type="text" class="form-control" placeholder="Search" aria-label="Search" aria-describedby="button-addon2">
+									<input type="text" class="form-control" placeholder="Search" aria-label="Search" aria-describedby="button-search2">
 									<div class="input-group-append">
-										<button class="btn btn-warning" type="button" id="button-addon2"><i class="fas fa-search"></i></button>
+										<button class="btn btn-warning" type="button" id="button-search2"><i class="fas fa-search"></i></button>
 									</div>
 								</div>
 							</form>
