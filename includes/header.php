@@ -1,6 +1,6 @@
 <header class="header">
 	<!-- Skip links -->
-	<a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+	<a class="sr-only sr-only-focusable" href="#main-content">Skip to main content</a>
 
 	<!-- Top bar -->
 	<div class="topbar d-flex">

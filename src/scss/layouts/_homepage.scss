@@ -1,0 +1,5 @@
+.hero-content {
+    @include media-breakpoint-up(lg) {
+        width: 60%;
+    }
+}

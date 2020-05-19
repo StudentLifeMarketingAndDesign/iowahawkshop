@@ -1,3 +1,6 @@
+#main-content {
+    outline: 0;
+}
 #merchPageFrame {
 	// extends bootstrap container classname
 	@extend .container-xxl;
@@ -11,6 +14,9 @@
 .catalogContentFrame {
     font-size: $font-size-base * 1.1;
     margin: 1em 0;
+    & a {
+        text-decoration: underline;
+    }
 }
 .catalogFeaturedFrame {
 	order: 3;
@@ -146,4 +152,14 @@ h1.catalogPageTitle {
 -------------------------------------------*/
 .itemSuggestedFrame {
 	margin-left: 0;
+}
+
+/* Accordion
+-------------------------------------------*/
+.accordion-angle {
+    transform: rotate(180deg);
+    text-decoration: none;
+    .collapsed & {
+        transform: rotate(0);
+    }
 }

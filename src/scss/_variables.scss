@@ -2,7 +2,7 @@
 /* Colors
 -------------------------------------------*/
 $gold: #FFCD00;
-$warning: $gold;
+$blue: #006ADB;
 
 $white:    #fff;
 $gray-100: #fafafa;
@@ -16,6 +16,12 @@ $gray-800: #404040;
 $gray-900: #292929;
 $black:    #000;
 
+$primary:       $blue;
+$secondary:     $gray-600;
+$warning:       $gold;
+$light:         $gray-100;
+$dark:          $gray-900;
+
 /* Spacing
 -------------------------------------------*/
 $spacer: 1rem;
@@ -23,7 +29,26 @@ $spacers: (
   6: ($spacer * 4.5),
   7: ($spacer * 6),
   8: ($spacer * 9),
-  9: ($spacer * 12)
+  9: ($spacer * 12),
+  10: ($spacer * 15),
+  11: ($spacer * 20)
+);
+
+/* Sizing
+-------------------------------------------*/
+$sizes: ();
+$sizes: map-merge(
+  (
+    25: 25%,
+    30: 30%,
+    40: 40%,
+    50: 50%,
+    60: 60%,
+    75: 75%,
+    100: 100%,
+    auto: auto
+  ),
+  $sizes
 );
 
 /* Typography
@@ -35,6 +60,7 @@ $headings-font-family: 'Roboto Condensed', sans-serif;
 $headings-font-weight: 700;
 $headings-margin-bottom: $spacer / 1;
 $line-height-base: 1.6;
+$text-muted: $gray-700;
 
 /* Border
 -------------------------------------------*/

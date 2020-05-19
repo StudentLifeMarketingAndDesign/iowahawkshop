@@ -19,10 +19,11 @@
 	<div class="collapse navbar-collapse" id="navbarNavDropdown">
 		<ul class="navbar-nav">
 			<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Textbooks
 				</a>
-				<div class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownMenuLink">
+				<div class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownMenuLink1">
+                 <a class="dropdown-item" href="index.php">Homepage</a>
 					<a class="dropdown-item" href="catalog.php">Catalog with subcatalogs</a>
 					<a class="dropdown-item" href="browse.php">Catalog with items</a>
 					<a class="dropdown-item" href="product.php">Product Page</a>
@@ -33,18 +34,18 @@
 				<a class="nav-link" href="#">Technology</a>
 			</li>
 			<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Students & Faculty</a>
-				<div class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownMenuLink">
+				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Students & Faculty</a>
+				<div class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownMenuLink2">
 					<a class="dropdown-item" href="#">Action</a>
 					<a class="dropdown-item" href="#">Another action</a>
 					<a class="dropdown-item" href="#">Something else here</a>
 				</div>
 			</li>
 			<li class="nav-item dropdown position-static">
-				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Men/Unisex
 				</a>
-				<div class="dropdown-menu w-100 border-top-0 border-right-0 border-left-0 py-4 m-0 rounded-0 shadow-sm" aria-labelledby="navbarDropdownMenuLink">
+				<div class="dropdown-menu w-100 border-top-0 border-right-0 border-left-0 py-4 m-0 rounded-0 shadow-sm" aria-labelledby="navbarDropdownMenuLink3">
 					<div class="container-xxl">
 						<div class="row w-100">
 							<div class="col-md-3">
@@ -84,30 +85,30 @@
 				</div>
 			</li>
 			<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Women
 				</a>
-				<div class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownMenuLink">
+				<div class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownMenuLink4">
 					<a class="dropdown-item" href="#">Action</a>
 					<a class="dropdown-item" href="#">Another action</a>
 					<a class="dropdown-item" href="#">Something else here</a>
 				</div>
 			</li>
 			<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink5" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Kids
 				</a>
-				<div class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownMenuLink">
+				<div class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownMenuLink5">
 					<a class="dropdown-item" href="#">Action</a>
 					<a class="dropdown-item" href="#">Another action</a>
 					<a class="dropdown-item" href="#">Something else here</a>
 				</div>
 			</li>
 			<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" data-display="static" aria-haspopup="true" aria-expanded="false">
+				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink6" role="button" data-toggle="dropdown" data-display="static" aria-haspopup="true" aria-expanded="false">
 					Gifts
 				</a>
-				<div class="dropdown-menu dropdown-menu-md-right dropdown-menu-lg-left shadow-sm" aria-labelledby="navbarDropdownMenuLink">
+				<div class="dropdown-menu dropdown-menu-md-right dropdown-menu-lg-left shadow-sm" aria-labelledby="navbarDropdownMenuLink6">
 					<a class="dropdown-item" href="#">Action</a>
 					<a class="dropdown-item" href="#">Another action</a>
 					<a class="dropdown-item" href="#">Something else here</a>
