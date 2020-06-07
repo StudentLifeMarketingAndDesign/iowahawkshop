@@ -19,7 +19,7 @@
             
             <section class="">
                 <div class="container-xxl">
-                    <div class="row mb-6">
+                    <div class="row mb-5">
                         <div class="col-md-6">
                             <div class="card border-0">
                                 <img src="https://via.placeholder.com/800x400" class="card-img-top" alt="">
@@ -40,7 +40,7 @@
                         </div>
                     </div><!-- end row -->
 
-                    <div class="row mb-6">
+                    <div class="row mb-5">
                         <div class="col-sm-4 mb-3 mb-md-0">
                             <div class="card bg-warning text-dark text-center">
                                 <div class="card-body">
@@ -73,7 +73,7 @@
                         </div>
                     </div><!-- end row -->
 
-                    <div class="row mb-6">
+                    <div class="row mb-5">
                         <div class="col">
                             <div class="card bg-dark text-center text-white py-3">
                                 <div class="card-body">
@@ -85,7 +85,7 @@
                         </div>
                     </div><!-- end row -->
                     
-                    <div class="row mb-6">
+                    <div class="row mb-5">
                         <div class="col">
                             <div class="card mb-3 shadow-sm">
                                 <div class="row no-gutters position-relative">
@@ -104,7 +104,7 @@
                         </div>
                     </div><!-- end row -->
                     
-                    <div class="row mb-6">
+                    <div class="row mb-5">
                         <div class="col-6 col-md-3 mb-3 mb-md-0">
                             <div class="card border-light">
                                 <img src="https://via.placeholder.com/400x400" class="card-img-top" alt="">
@@ -175,7 +175,7 @@
 		<?php include 'includes/footer.php'; ?>
 
 		<!-- JavaScript File -->
-		<script src="dist/all.js?cb=1589911856113"></script>
+		<script src="dist/all.js?cb=1591192769327"></script>
 		<!-- Jquery -->
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 		<!-- Bootstrap -->

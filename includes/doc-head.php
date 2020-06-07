@@ -9,7 +9,8 @@
 		<script src="https://kit.fontawesome.com/49191f9021.js" crossorigin="anonymous"></script>
 
 		<!-- Google Fonts -->
-		<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&family=Zilla+Slab:wght@600&display=swap" rel="stylesheet">
+		<!-- <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">  -->
 		
 		<!-- Sequoia CSS Files -->
 		<link rel="stylesheet" type="text/css" href="https://www.hawkshop.com/css/masterstyles.css">

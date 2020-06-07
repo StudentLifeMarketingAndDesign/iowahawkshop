@@ -13,7 +13,7 @@ $gray-500: #bdbdbd;
 $gray-600: #7d7d7d;
 $gray-700: #575757;
 $gray-800: #404040;
-$gray-900: #292929;
+$gray-900: #151515;
 $black:    #000;
 
 $primary:       $blue;
@@ -56,8 +56,8 @@ $sizes: map-merge(
 $enable-responsive-font-sizes: true;
 $font-family-base: 'Roboto', sans-serif;
 $font-size-base: 1rem;
-$headings-font-family: 'Roboto Condensed', sans-serif;
-$headings-font-weight: 700;
+$headings-font-family: 'Zilla Slab', serif;
+$headings-font-weight: 600;
 $headings-margin-bottom: $spacer / 1;
 $line-height-base: 1.6;
 $text-muted: $gray-700;

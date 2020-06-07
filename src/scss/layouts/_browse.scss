@@ -14,7 +14,7 @@
 .catalogContentFrame {
     font-size: $font-size-base * 1.1;
     margin: 1em 0;
-    & a {
+    & a:not(.btn) {
         text-decoration: underline;
     }
 }

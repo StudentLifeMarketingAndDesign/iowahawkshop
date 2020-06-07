@@ -1,5 +1,4 @@
 .topbar {
-	background-color: $black;
 	color: $gray-300;
 	font-size: 80%;
 	&__links {
@@ -25,8 +24,8 @@
 	}
 }
 .navbar .form-control {
-	padding-left: .375rem;
-	padding-right: .375rem;
+	padding-left: .25rem;
+	padding-right: .25rem;
 	@include media-breakpoint-up(sm) {
 		padding-left: $input-btn-padding-x;
 		padding-right: $input-btn-padding-x;
