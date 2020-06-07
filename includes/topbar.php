@@ -1,5 +1,5 @@
 <div class="topbar bg-dark d-flex">
-    <div class="topbar__sec mr-auto p-2">
+    <div class="topbar__sec mr-auto ">
 
         <a href="http://www.uiowa.edu" title="The University of Iowa" id="wordmark-link">
             <svg class="logo-icon" id="logo" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 611 195">
@@ -10,12 +10,12 @@
             </svg>
         </a>
     </div>
-    <ul class="topbar__links d-flex align-items-center">
+    <ul class="topbar__links d-sm-flex align-items-center d-none d-sm-block">
         <li class=""><a href="#" class="p-2">Gift Cards</a></li>
         <li class=""><a href="#" class="p-2">My Account</a></li>
         <li class=""><a href="#" class="p-2">Contact</a></li>
     </ul>
-    <a href="#" class="topbar__cart py-2 px-4 d-none d-sm-block">
+    <a href="#" class="topbar__cart py-2 px-4 ">
         <i class="fas fa-shopping-cart"></i>
         <span class="sr-only">Shopping Cart</span>
     </a>

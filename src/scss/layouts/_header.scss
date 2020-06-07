@@ -1,6 +1,9 @@
 .topbar {
 	color: $gray-300;
-	font-size: 80%;
+    font-size: 80%;
+    &__sec {
+        padding: 10px 0 10px 15px;
+    }
 	&__links {
 		list-style: none;
 		margin: 0;
@@ -24,8 +27,8 @@
 	}
 }
 .navbar .form-control {
-	padding-left: .25rem;
-	padding-right: .25rem;
+	padding-left: .1rem;
+	padding-right: .1rem;
 	@include media-breakpoint-up(sm) {
 		padding-left: $input-btn-padding-x;
 		padding-right: $input-btn-padding-x;

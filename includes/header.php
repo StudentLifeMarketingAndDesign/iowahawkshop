@@ -9,7 +9,7 @@
 	<div class="brand">
 		<div class="container-xxl">
 			<div class="row d-flex align-items-center">
-				<div class="col-8 col-md-4">
+				<div class="col-10 offset-1 offset-sm-0 col-sm-8 col-md-4">
 					<a class="d-block py-2 py-md-4" href="index.php">
 						<img src="assets/logo.png" alt="Iowa Hawk Shop" class="img-fluid">
 					</a>
@@ -32,12 +32,12 @@
 					<div class="p-3 py-md-4 d-none d-sm-block">
 						Promote something here
 					</div>
-					<div class="d-sm-none py-2 text-right">
+					<!-- <div class="d-sm-none py-2 text-right">
 						<a href="#" class="btn btn-outline-dark">
 							<span class="">Cart</span>
 							<i class="fas fa-shopping-cart"></i>
 						</a>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</div>
