@@ -1,6 +1,7 @@
 .topbar {
 	color: $gray-300;
     font-size: 80%;
+    min-height: 40px;
     &__sec {
         padding: 10px 0 10px 15px;
     }
@@ -33,6 +34,10 @@
 		padding-left: $input-btn-padding-x;
 		padding-right: $input-btn-padding-x;
 	}
+}
+.navbar .navbar-toggler {
+    padding-left: .5rem;
+    padding-right: .5rem;
 }
 
 /* Uiowa watermark
