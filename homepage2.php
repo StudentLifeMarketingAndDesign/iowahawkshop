@@ -4,34 +4,18 @@
 	<body>
 		<?php include 'includes/header.php'; ?>
         <main id="main-content" tabindex="-1" class="cd-main-content">
-            <div class="container-xxl">
-                <section class="row mb-5 no-gutters">
-                    <div class="col-12 col-lg-9 order-lg-2">
-                        <a href="#" class="d-block">
-                            <img src="https://via.placeholder.com/1000x500" alt="" class="img-fluid d-block m-auto">
-                        </a>
+            <section class="mb-5">
+                <a href="#" class="d-block">
+                    <img src="https://via.placeholder.com/1400x500" alt="" class="img-fluid d-block m-auto">
+                </a>
+                <div class="card border mt-lg-n6 mx-auto rounded-0 hero-content">
+                    <div class="card-body text-center p-lg-5">
+                        <h3 class="mb-2">Nike New Arrivals</h3>
+                        <p>Maecenas eu est purus. Morbi luctus turpis justo, sit amet mollis arcu ultricies et.</p>
+                        <a href="#" class="btn btn-warning">Shop Men</a> <a href="#" class="btn btn-warning">Shop Women</a>
                     </div>
-                    <div class="col-12 col-lg-3 order-lg-1 bg-light d-lg-flex align-items-center">
-                        <div class="card border-0 bg-transparent">
-                            <div class="card-body text-center">
-                                <h2 class="mb-2">Nike New Arrivals</h2>
-                                <p class="">Maecenas eu est purus. Morbi luctus turpis justo, sit amet mollis arcu ultricies et.</p>
-                                <a href="#" class="btn btn-warning mb-1">Shop Men</a> <a href="#" class="btn btn-warning mb-1">Shop Women</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- <a href="#" class="d-block">
-                        <img src="https://via.placeholder.com/1400x500" alt="" class="img-fluid d-block m-auto">
-                    </a>
-                    <div class="card border mt-lg-n6 mx-auto rounded-0 hero-content">
-                        <div class="card-body text-center p-lg-5">
-                            <h3 class="mb-2">Nike New Arrivals</h3>
-                            <p>Maecenas eu est purus. Morbi luctus turpis justo, sit amet mollis arcu ultricies et.</p>
-                            <a href="#" class="btn btn-warning">Shop Men</a> <a href="#" class="btn btn-warning">Shop Women</a>
-                        </div>
-                    </div> -->
-                </section>
-            </div>
+                </div>
+            </section>
             
             <section class="">
                 <div class="container-xxl">
